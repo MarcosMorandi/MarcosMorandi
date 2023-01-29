@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Marcos Morandi.<br>
+Good to see you here.<br>
+Feel free to contact me on LinkedIn.<br>
+
+"Stay hungry. Stay foolish."
 
 <!--
 **marcosmorandi/marcosmorandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
