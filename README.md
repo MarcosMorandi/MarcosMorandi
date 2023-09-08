@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Marcos Morandi.<br>
 Good to see you here.<br>
-Feel free to contact me by email or LinkedIn.<br>
+Feel free to contact me by LinkedIn.<br>
 
 "Stay hungry. Stay foolish."
 
